@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    min-height: 40px;
+    max-height: 100px;
+    width: 100%;
+    background: #672280;
+    background: linear-gradient(90deg, #4a185c 0%, #a626d3 100%);
+}
+
+.navbar-logo{
+    max-height: 100%;
+}
+
+.navbar-title{
+    padding: 20px;
+    font-size: 2rem;
+    font-weight: 900;
+    color: #FFF;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.navbar-subtile{
+    color: #FFF;
+    padding: 20px;
+    font-size: 1.5rem;
+    overflow: hidden;
+}
